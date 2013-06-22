@@ -1,0 +1,53 @@
+* onwaiting onvolumechange ontimeupdate onsuspend onsubmit onstalled onsort onshow onselect onseeking onseeked onscroll onreset onratechange onprogress onplaying onplay onpause onmousewheel onmouseup onmouseover onmouseout onmousemove onmouseleave onmouseenter onmousedown onloadstart onloadedmetadata onloadeddata onload onkeyup onkeypress onkeydown oninvalid oninput onfocus onerror onended onemptied ondurationchange ondrop ondragstart ondragover ondragleave ondragexit ondragenter ondragend ondrag ondblclick oncuechange oncontextmenu onclose onclick onchange oncanplaythrough oncanplay oncancel onblur onabort translate title tabindex style spellcheck lang inert id hidden dropzone draggable dir contextmenu contenteditable class accesskey
+a type target rel hreflang href download
+abbr title
+area type target shape rel hreflang href download coords alt
+audio src preload muted mediagroup loop crossorigin controls autoplay
+base target href
+blockquote cite
+body onunload onstorage onresize onpopstate onpageshow onpagehide ononline onoffline onmessage onhashchange onbeforeunload onbeforeprint onafterprint
+button value type name menu formtarget formnovalidate formmethod formenctype formaction form disabled autofocus
+canvas width height
+col span
+colgroup span
+data value
+del datetime cite
+details open
+dfn title
+dialog open
+embed width type src height
+fieldset name form disabled
+form target novalidate name method enctype autocomplete action accept-charset
+html manifest
+iframe width srcdoc src seamless sandbox name height allowfullscreen
+img width usemap src ismap height crossorigin alt
+input width value type step src size required readonly placeholder pattern name multiple min maxlength max list inputmode height formtarget formnovalidate formmethod formenctype formaction form disabled dirname checked autofocus autocomplete alt accept
+ins datetime cite
+keygen name keytype form disabled challenge autofocus
+label form for
+li value
+link type title title sizes rel media hreflang href crossorigin
+map name
+menu type label
+menuitem type title radiogroup label icon disabled command checked
+meta name http-equiv content charset
+meter value optimum min max low high
+object width usemap typemustmatch type name height form data
+ol type start reversed
+optgroup label disabled
+option value selected label disabled
+output name form for
+param value name
+progress value max
+q cite
+script type src defer crossorigin charset async
+select size required name multiple form disabled autofocus autocomplete
+source type src media
+style type title scoped media
+table border
+td rowspan headers colspan
+textarea wrap rows required readonly placeholder name maxlength inputmode form disabled dirname cols autofocus autocomplete
+th scope rowspan headers colspan abbr
+time datetime
+track srclang src label kind default
+video width src preload poster muted mediagroup loop height crossorigin controls autoplay
